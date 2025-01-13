@@ -1,4 +1,4 @@
-# Popeye-Demo
+# Popeye:Installation and Usage Guide
 
 ![popeye_logo](https://github.com/user-attachments/assets/c8675a7c-561b-4a04-886c-2d2f807910af)
 
