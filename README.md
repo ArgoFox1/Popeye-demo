@@ -31,7 +31,9 @@
   To verify the status of the Metrics Server, ensure it is running, then proceed to the next step.
    ```shell
    kubectl get pods -n kube-system
-   
+   ```
+![older  Çalışıyor  - Oracle VM VirtualBox _ 1 13 01 2025 15_11_09](https://github.com/user-attachments/assets/63e141dc-5e0e-430a-a708-a1c9b0d790ea)
+
 * Run Popeye
    ```shell
    popeye
